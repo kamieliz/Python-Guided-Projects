@@ -9,3 +9,6 @@ The goal for this project is to analyze the Hacker News posts and determine whic
 
 ## Project 3 - Exploring eBay car sales data
 The goal for this project is to analyze used car data from Germany's classified section on Ebay and clean inaccurate or null data, change numeric columns from strings to integers, clean up column names for clarity and changed camelcase to snakecase, etc...
+
+## Project 4 - Cleaning and Analyzing Employee Exit Surveys
+The goal for this project was to apply data cleaning techniques the employee exit survey data consolidated from DETE and TAFE institutes in Queensland, Australia and analyze the newly cleaned data for which employees resign due to dissatisfaction with their job.
