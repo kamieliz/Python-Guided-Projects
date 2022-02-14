@@ -12,3 +12,9 @@ The goal for this project is to analyze used car data from Germany's classified 
 
 ## Project 4 - Cleaning and Analyzing Employee Exit Surveys
 The goal for this project was to apply data cleaning techniques the employee exit survey data consolidated from DETE and TAFE institutes in Queensland, Australia and analyze the newly cleaned data for which employees resign due to dissatisfaction with their job.
+
+## Project 5 - Analyzing NYC High School Data
+The goal for this project was to apply data cleaning techniques to various sources of data in order to determine what factors and demographics affect SAT scores for high school students in NYC.
+
+## Project 6 - Star Wars Survey
+The goal for this project was to apply data cleaning techniques to data consolidated from online survey responses in order to determine which Star Wars movie is the fan favorite and most watched.
