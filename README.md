@@ -1,4 +1,4 @@
-# Python-Guided-Projects
+# Python Guided Projects
 This repository contains my projects from the DataQuest Data Analyst in Python learning path. 
 
 ## Project 1 - Profitable App Profiles for the App Store and Google Play Market
